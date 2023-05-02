@@ -7,6 +7,9 @@
 ## Descripción
 Este proyecto forma parte del segundo Challenge del programa Alura Latam enfocado en Java Back End el cual consiste en crear un Conversor de Divisas.
 
+## Estado
+Finalizado
+
 ## Funcionalidades
 Permite realizar las siguientes conversiones:
 - Moneda
@@ -56,3 +59,13 @@ Permite realizar las siguientes conversiones:
   - Metros a Kilometros
   - Centimetros a Metros
   - Milimetros a Centimetros
+
+## Instalación
+
+## Manual de usuario
+
+## Tecnología utilizada
+- Java
+
+## Autor
+- Fray Boris Espinoza Tarazona
