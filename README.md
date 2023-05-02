@@ -3,6 +3,13 @@
 </p>
 
 # CONVERSOR
+<p align="left">
+  <img alt="version" src="https://img.shields.io/badge/test-ok-green">
+  <img alt="version" src="https://img.shields.io/badge/version-1.0.0-blue">
+  <img alt="version" src="https://img.shields.io/badge/licence-not specified-yellowgreen">
+  <img alt="version" src="https://img.shields.io/badge/status-finished-brightgreen">
+  <img alt="version" src="https://img.shields.io/badge/release date-may-yellow">
+</p>
 
 ## Descripción
 Este proyecto forma parte del segundo Challenge del programa Alura Latam enfocado en Java Back End el cual consiste en crear un Conversor de Divisas.
