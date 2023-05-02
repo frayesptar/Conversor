@@ -64,8 +64,8 @@ Permite realizar las siguientes conversiones:
 
 ## Manual de usuario
 
-## Tecnología utilizada
+## Tecnologías utilizadas
 - Java
 
-## Autor
+## Personas desarrolladoras del proyecto
 - Fray Boris Espinoza Tarazona
