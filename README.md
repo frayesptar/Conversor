@@ -3,4 +3,4 @@
 </p>
 
 # Conversor
-Challenge Alura Latam
+Este proyecto forma parte del segundo Challenge del programa Alura Latam enfocado en Java Back End el cual consiste en crear un Conversor de monedas.
