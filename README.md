@@ -68,10 +68,10 @@ Permite realizar las siguientes conversiones:
   - Milimetros a Centimetros
 
 ## Instalación
-- 1era Forma
-1. Dar clic en **Code** y luego en **Download ZIP**
+### 1era Forma
+1. Hacer clic en **Code** y luego en **Download ZIP**
 
-- 2da Forma
+### 2da Forma
 1. Crear una carpeta
 2. Ingresar a **Git Bash** y ejecutar el siguiente comando
 ```sh
@@ -79,9 +79,21 @@ git clone https://github.com/frayesptar/Conversor.git
 ```
 
 ## Manual de usuario
+1. Al ejecutar el programa aparecerá la siguiente pantalla
+<p align="center">
+  <img width="436" height="321" alt="Conversor 01" src="Image/Conversor_01.png">
+</p>
+2. Seleccionar un Tipo de Conversor Ej. **Convertir Moneda**
+<p align="center">
+  <img width="436" height="321" alt="Conversor 01" src="Image/Conversor_02.png">
+</p>
+3. 
 
 ## Tecnologías utilizadas
 - Java
+
+## IDE utilizada
+- Eclipse
 
 ## Personas desarrolladoras del proyecto
 - Fray Boris Espinoza Tarazona
