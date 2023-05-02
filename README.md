@@ -68,6 +68,15 @@ Permite realizar las siguientes conversiones:
   - Milimetros a Centimetros
 
 ## Instalación
+- 1era Forma
+1. Dar clic en **Code** y luego en **Download ZIP**
+
+- 2da Forma
+1. Crear una carpeta
+2. Ingresar a **Git Bash** y ejecutar el siguiente comando
+```sh
+git clone 
+```
 
 ## Manual de usuario
 
