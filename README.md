@@ -75,7 +75,7 @@ Permite realizar las siguientes conversiones:
 1. Crear una carpeta
 2. Ingresar a **Git Bash** y ejecutar el siguiente comando
 ```sh
-git clone 
+git clone https://github.com/frayesptar/Conversor.git
 ```
 
 ## Manual de usuario
