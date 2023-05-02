@@ -83,11 +83,39 @@ git clone https://github.com/frayesptar/Conversor.git
 <p align="center">
   <img width="436" height="321" alt="Conversor 01" src="Image/Conversor_01.png">
 </p>
-2. Seleccionar un Tipo de Conversor Ej. **Convertir Moneda**
+
+2. Seleccionar un Conversor Ej. **"Convertir Moneda"** y hacer clic en **Ok**
 <p align="center">
-  <img width="436" height="321" alt="Conversor 01" src="Image/Conversor_02.png">
+  <img width="436" height="321" alt="Conversor 02" src="Image/Conversor_02.png">
 </p>
-3. 
+
+3. Ingresar la cantidad que desea convertir Ej. **"1000"** y hacer clic en **Ok**
+<p align="center">
+  <img width="436" height="139" alt="Conversor 03" src="Image/Conversor_03.png">
+</p>
+
+4. Seleccionar un tipo de conversor Ej. **"De Soles a Dólar"** y hacer clic en **Ok**
+<p align="center">
+  <img width="436" height="140" alt="Conversor 04" src="Image/Conversor_04.png">
+  <br/>
+  <img width="436" height="140" alt="Conversor 05" src="Image/Conversor_05.png">  
+</p>
+
+5. Aparecera un mensaje con el valor convertido Ej. **"Tienes 264.451 $"** y hacer clic en **Aceptar**
+<p align="center">
+  <img width="264" height="122" alt="Conversor 06" src="Image/Conversor_06.png">
+</p>
+
+6. Al hacer clic en **Aceptar** aparecerá un mensaje con una pregunta la cual tiene tres opciones:
+   - **Si:** Permite volver a la pantalla inicial para seleccionar un nuevo conversor
+   - **No:** Finaliza el programa
+   - **Cancelar:** Permite volver a la tercera pantalla para seleccionar un nuevo tipo de conversor
+
+7. En esta ocación haremos clic en **Si**
+<p align="center">
+  <img width="264" height="122" alt="Conversor 07" src="Image/Conversor_07.png">
+</p>
+
 
 ## Tecnologías utilizadas
 - Java
