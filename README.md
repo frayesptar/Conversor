@@ -108,7 +108,7 @@ git clone https://github.com/frayesptar/Conversor.git
 
 6. Al hacer clic en **Aceptar** aparecerá un mensaje con una pregunta la cual tiene tres opciones:
    - **Si:** Permite volver a la pantalla inicial para seleccionar un nuevo conversor
-   - **No:** Finaliza el programa
+   - **No:** Muestra un mensaje y finaliza el programa
    - **Cancelar:** Permite volver a la tercera pantalla para seleccionar un nuevo tipo de conversor
 
 7. En esta ocación haremos clic en **Si**
@@ -116,6 +116,56 @@ git clone https://github.com/frayesptar/Conversor.git
   <img width="264" height="122" alt="Conversor 07" src="Image/Conversor_07.png">
 </p>
 
+8. Seleccionar un Conversor Ej. **"Convertir Temperatura"** y hacer clic en **Ok**
+<p align="center">
+  <img width="436" height="321" alt="Conversor 08" src="Image/Conversor_08.png">
+  <br/>
+  <img width="436" height="321" alt="Conversor 09" src="Image/Conversor_09.png">
+</p>
+
+9. Ingresar la cantidad que desea convertir Ej. **"35"** y hacer clic en **Ok**
+<p align="center">
+  <img width="436" height="139" alt="Conversor 10" src="Image/Conversor_10.png">
+</p>
+
+10. Seleccionar un tipo de conversor Ej. **"De Celsius a Fahrenheit"** y hacer clic en **Ok**
+<p align="center">
+  <img width="436" height="140" alt="Conversor 11" src="Image/Conversor_11.png">
+  <br/>
+  <img width="436" height="140" alt="Conversor 12" src="Image/Conversor_12.png">  
+</p>
+
+11. Aparecera un mensaje con el valor convertido Ej. **"Tienes 95 °F"** y hacer clic en **Aceptar**
+<p align="center">
+  <img width="264" height="122" alt="Conversor 13" src="Image/Conversor_13.png">
+</p>
+
+12. Al hacer clic en **Aceptar** aparecerá un mensaje con una pregunta. En esta ocación haremos clic en **Cancelar**
+<p align="center">
+  <img width="264" height="122" alt="Conversor 14" src="Image/Conversor_14.png">
+</p>
+
+13. Seleccionar un tipo de conversor Ej. **"De Celsius a Rankine"** y hacer clic en **Ok**
+<p align="center">
+  <img width="436" height="140" alt="Conversor 15" src="Image/Conversor_15.png">
+  <br/>
+  <img width="436" height="140" alt="Conversor 16" src="Image/Conversor_16.png">  
+</p>
+
+14. Aparecera un mensaje con el valor convertido Ej. **"Tienes 554.67 °R"** y hacer clic en **Aceptar**
+<p align="center">
+  <img width="264" height="122" alt="Conversor 17" src="Image/Conversor_17.png">
+</p>
+
+15. Al hacer clic en **Aceptar** aparecerá un mensaje con una pregunta. En esta ocación haremos clic en **No**
+<p align="center">
+  <img width="264" height="122" alt="Conversor 18" src="Image/Conversor_18.png">
+</p>
+
+16. Al hacer clic en **No** aparecerá un mensaje indicando la finalización del programa y hacer clic en **Aceptar**
+<p align="center">
+  <img width="264" height="122" alt="Conversor 19" src="Image/Conversor_19.png">
+</p>
 
 ## Tecnologías utilizadas
 - Java
